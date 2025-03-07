@@ -14,8 +14,8 @@ The dataset was cleaned and analyzed to extract key insights related to customer
   - **Marital Status & Purchases:** Married individuals were more likely to buy bikes compared to single individuals.  
   - **Occupation Impact:** Sales and skilled labor professions had the highest bike purchase rates.
 - Skills Used: Data Cleaning, Data Transformation, IFS, Pivot Table and Pivot Charts, Slicer, Data Visualizaiton.
-- [view project file here](https://github.com/Debraj-Bora/Excel-Portfolio/blob/main/Bike%20Sales/bikeSalesProject.xlsx)
-- [vew dashboard here](https://github.com/Debraj-Bora/Excel-Portfolio/blob/main/Bike%20Sales/dashboard.png)
+- [View Project File Here](https://github.com/Debraj-Bora/Excel-Portfolio/blob/main/Bike%20Sales/bikeSalesProject.xlsx)
+- [View Dashboard Here](https://github.com/Debraj-Bora/Excel-Portfolio/blob/main/Bike%20Sales/dashboard.png)
 
 
 
